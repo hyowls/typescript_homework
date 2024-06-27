@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { getCountry } from './api/country'
 import CountryList from './components/CountryList'
 
